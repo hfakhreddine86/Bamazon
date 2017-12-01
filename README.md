@@ -11,16 +11,12 @@
 <h3>The Bamazon Customer Portal allows users to view the current items available for purchase.  The user will be prompted to enter the item id# and how many items they wish to purchase.  If the item is in stock, the order will be completed and the user will see the total amount of their purchase.</h3>
 
 ***
-<h4>Node Initialization</h4>
-![Customer Portal](https://github.com/hfakhreddine86/bamazon/tree/master/assets/nodeInit.png)
+![Customer Portal](assets/nodeInit.png)
 
-<h4>ID Select</h4>
 ![Customer Portal](assets/id.png)
 
-<h4>User Input Amount</h4>
 ![Customer Portal](assets/amount.png)
 
-<h4>Output</h4>
 ![Customer Portal](assets/output.png)
 
 ***
