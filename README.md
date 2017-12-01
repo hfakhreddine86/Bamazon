@@ -12,14 +12,12 @@
 
 ***
 ![outputGif](https://media.giphy.com/media/3o6fJ6uEPHVtmsq0NO/giphy.gif)
->>>>>>> e6f5bbb2c1ab36b78fe623aee22ff8cafa2ce4c0
 
 ***
 <h3>The Bamazon Customer portal will also output an "Insufficient Quantity!" if the user inputs an amount greater than the current stock quantity.</h3>
 
 ***
 ![noStockOutputGif](https://media.giphy.com/media/l2RnvZtMjSdmDusve/giphy.gif)
->>>>>>> e6f5bbb2c1ab36b78fe623aee22ff8cafa2ce4c0
 
 #### Technologies Used:
 ***
