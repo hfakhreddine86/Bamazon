@@ -13,12 +13,16 @@
 ***
 Node Initialization
 ![Node](assets/nodeInit.png)
+***
 ID Select
 ![ID](assets/id.png)
+***
 User Input Amount
 ![Amount](assets/amount.png)
+***
 Output
 ![Output](assets/output.png)
+***
 GIF
 ![GIF](https://media.giphy.com/media/3o6fJ6uEPHVtmsq0NO/giphy.gif)
 
@@ -28,12 +32,16 @@ GIF
 ***
 Node Initialization
 ![Node](assets/nodeInit.png)
+***
 ID Select
 ![ID](assets/id.png)
+***
 User Input AMount Greater than Stock Quantity
 ![No Stock](assets/noStock.png)
+***
 Insufficient Quantity Output
 ![No Stock Output](assets/noStockOutput.png)
+***
 GIF
 ![GIF](https://media.giphy.com/media/l2RnvZtMjSdmDusve/giphy.gif)
 
