@@ -12,8 +12,7 @@
 
 ***
 <h4>Node Initialization</h4>
-https://octodex.github.com/assets/nodeInit.png
-![Customer Portal](https://octodex.github.com/assets/nodeInit.png)
+![Customer Portal](https://github.com/hfakhreddine86/bamazon/tree/master/assets/nodeInit.png)
 
 <h4>ID Select</h4>
 ![Customer Portal](assets/id.png)
