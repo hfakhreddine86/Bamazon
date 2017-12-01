@@ -26,7 +26,7 @@
 * nodeJS
 * MySQL
 * NPM Packages:
-	- [mysql](github.com/mysqljs/mysql)
-	- [inquirer](github.com/SBoudrias/Inquirer.js)
-	- [colors](github.com/Marak/colors.js)
+	- [MySql](github.com/mysqljs/mysql)
+	- [Inquirer](github.com/SBoudrias/Inquirer.js)
+	- [Colors](github.com/Marak/colors.js)
 
