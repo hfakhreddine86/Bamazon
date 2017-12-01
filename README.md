@@ -11,13 +11,13 @@
 <h3>The Bamazon Customer Portal allows users to view the current items available for purchase.  The user will be prompted to enter the item id# and how many items they wish to purchase.  If the item is in stock, the order will be completed and the user will see the total amount of their purchase.</h3>
 
 ***
-![outputGif](https://media.giphy.com/media/xUOxf7kFEggyHQZoxG/giphy.gif)
+![outputGif](https://media.giphy.com/media/3o6fJ6uEPHVtmsq0NO/giphy.gif)
 
 ***
 <h3>The Bamazon Customer portal will also output an "Insufficient Quantity!" if the user inputs an amount greater than the current stock quantity.</h3>
 
 ***
-![noStockOutputGif](https://media.giphy.com/media/xT0xeMJ2yq3TjEoigU/giphy.gif)
+![noStockOutputGif](https://media.giphy.com/media/l2RnvZtMjSdmDusve/giphy.gif)
 
 #### Technologies Used:
 ***
