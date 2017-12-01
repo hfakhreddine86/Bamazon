@@ -11,13 +11,39 @@
 <h3>The Bamazon Customer Portal allows users to view the current items available for purchase.  The user will be prompted to enter the item id# and how many items they wish to purchase.  If the item is in stock, the order will be completed and the user will see the total amount of their purchase.</h3>
 
 ***
-![outputGif](https://media.giphy.com/media/3o6fJ6uEPHVtmsq0NO/giphy.gif)
+<h4>Node Initialization</h4>
+![node](assets/nodeInit.png)
+
+<h4>ID Select</h4>
+![id](assets/id.png)
+
+<h4>User Input Amount</h4>
+![amount](assets/amount.png)
+
+<h4>Output</h4>
+![output](assets/output.png)
+
+<h4>GIF Link</h4>
+[link to Giphy!](https://media.giphy.com/media/3o6fJ6uEPHVtmsq0NO/giphy.gif)
 
 ***
 <h3>The Bamazon Customer portal will also output an "Insufficient Quantity!" if the user inputs an amount greater than the current stock quantity.</h3>
 
 ***
-![noStockOutputGif](https://media.giphy.com/media/l2RnvZtMjSdmDusve/giphy.gif)
+<h4>Node Initialization</h4>
+![node](assets/nodeInit.png)
+
+<h4>ID Select</h4>
+![id](assets/id.png)
+
+<h4>Not Enough Amount Selected</h4>
+![amount](assets/noStock.png)
+
+<h4>Insufficient Quantity Output</h4>
+![output](assets/noStockOutput.png)
+
+<h4>GIF Link</h4>
+[link to Giphy!](https://media.giphy.com/media/l2RnvZtMjSdmDusve/giphy.gif)
 
 #### Technologies Used:
 ***
