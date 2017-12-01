@@ -23,21 +23,16 @@
 <h3>The Bamazon Customer portal will also output an "Insufficient Quantity!" if the user inputs an amount greater than the current stock quantity.</h3>
 
 ***
-<h4>Node Initialization</h4>
 ![Customer Portal](assets/nodeInit.png)
 
-<h4>ID Select</h4>
 ![Customer Portal](assets/id.png)
 
-<h4>Not Enough Amount Selected</h4>
 ![Customer Portal](assets/noStock.png)
 
-<h4>Insufficient Quantity Output</h4>
 ![Customer Portal](assets/noStockOutput.png)
 
-#### Technologies Used:
 ***
-
+#### Technologies Used:
 * Javascript
 * nodeJS
 * MySQL
