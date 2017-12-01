@@ -23,9 +23,6 @@
 <h4>Output</h4>
 ![output](assets/output.png)
 
-<h4>GIF Link</h4>
-[link to Giphy!](https://media.giphy.com/media/3o6fJ6uEPHVtmsq0NO/giphy.gif)
-
 ***
 <h3>The Bamazon Customer portal will also output an "Insufficient Quantity!" if the user inputs an amount greater than the current stock quantity.</h3>
 
@@ -41,9 +38,6 @@
 
 <h4>Insufficient Quantity Output</h4>
 ![output](assets/noStockOutput.png)
-
-<h4>GIF Link</h4>
-[link to Giphy!](https://media.giphy.com/media/l2RnvZtMjSdmDusve/giphy.gif)
 
 #### Technologies Used:
 ***
