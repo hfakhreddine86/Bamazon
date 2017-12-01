@@ -12,7 +12,8 @@
 
 ***
 <h4>Node Initialization</h4>
-![Customer Portal](assets/nodeInit.png)
+https://octodex.github.com/assets/nodeInit.png
+![Customer Portal](https://octodex.github.com/assets/nodeInit.png)
 
 <h4>ID Select</h4>
 ![Customer Portal](assets/id.png)
