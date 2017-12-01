@@ -110,7 +110,7 @@ function checkout() {
 
     var total_price = purchase_amt * product_price;
     console.log(colors.rainbow("\n******************************************************************"));
-    console.log((colors.red("You're total price is $")) + (colors.green(total_price)));
+    console.log((colors.red("You're total price is ")) + (colors.green("$")) + (colors.green(total_price)));
     console.log(colors.rainbow("\n******************************************************************"));
     var query = "UPDATE products SET stock_quantity = " + stock_remaining + " WHERE item_id = " + product_choice.item_id + ";";
     connection.query(query, function (err, res) {
